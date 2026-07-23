@@ -5,6 +5,6 @@ Notebooks de estudo do curso da Data Science Academy. Cada módulo conecta o con
 Este repositório é o registro do processo de estudo, não os projetos de portfólio.
 ## Módulos
 
-| Módulo | Tópico | Status |
-|---|---|---|
+| Módulo | Tópico
+|---|---|
 | [04 — Álgebra Linear] | Vetores, geometria, produto escalar e vetorial |
